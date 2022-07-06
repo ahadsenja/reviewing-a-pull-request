@@ -12,5 +12,6 @@ To play the game:
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 #### This is just addition comment
+Descritpion of addition comment
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
